@@ -61,9 +61,9 @@ Here are some ideas to get you started:
 
 <br>
   
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/ravshanovtohir/ravshanovtohir/output/github-contribution-grid-snake.svg" />
-</div>
+</div> -->
 
 <br>
 
