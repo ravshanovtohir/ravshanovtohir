@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">
   Welcome to Ravshanov Tohir's profile!
+  🚀Server is running at http://localhost + PORT
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <br>
