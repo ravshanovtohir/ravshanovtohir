@@ -20,8 +20,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <h3 align="center">
-  🚀Server is running at http://localhost + PORT
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  🚀 Server is running at http://localhost + PORT 🔭
 </h3>
  
 <br>
