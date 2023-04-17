@@ -17,11 +17,13 @@
   Hi, I'm Tohir, Backend Developer from Uzbekistan
   <br>
   <br>
+  <br>
   💻 I love writing code and learn anythings about it
+  <br>
   <br>
   💬 Ask me anything about from <a href="https://t.me/rth_777">Here</a>
   <br>
-   📫 How to reach me: <a href="mailto: ravshanovtohir11@gmail.com">ravshanovtohir11@gmail.com</a>
+  📫 How to reach me: <a href="mailto: ravshanovtohir11@gmail.com">ravshanovtohir11@gmail.com</a>
 </p>
 
 
