@@ -8,9 +8,9 @@
 
 <h5 align="center">
   <a href="https://www.linkedin.com/in/tohir-ravshanov-73147a221/" title="LinkedIn Profile"><img width="80" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <a href="[https://www.instagram.com/mabrur.h11/](https://www.instagram.com/_hamdamovich_/)" title="Insta Profile"><img width="90" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
- <a href="[https://t.me/mabrur_dev/](https://t.me/rth_777)" title="TG Profile"><img width="80" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
- <a href="[https://www.facebook.com/mabrur.h11](https://www.facebook.com/toxir.ravshanov.14/)" title="FB Profile"><img width="80" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+ <a href="https://www.instagram.com/_hamdamovich_/" title="Insta Profile"><img width="90" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+ <a href="https://t.me/rth_777" title="TG Profile"><img width="80" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+ <a href="https://www.facebook.com/toxir.ravshanov.14/" title="FB Profile"><img width="80" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 </h5>
 <br>
 <p align="center">
