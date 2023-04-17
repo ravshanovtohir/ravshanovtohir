@@ -1,78 +1,25 @@
-<!-- ### Hi there 👋 -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mabrur-h">
 
-<!--
-**ravshanovtohir/ravshanovtohir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Tohir👨‍💻&center=true&size=30">
+  </a>
+</h1>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h3 align="center">
-  Welcome to Ravshanov Tohir's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-<h3 align="center">
-  🚀 Server is running at http://localhost + PORT 🔭
-</h3>
- 
+<h5 align="center">
+  <a href="[https://www.linkedin.com/in/mabrurdev/](https://www.linkedin.com/in/tohir-ravshanov-73147a221/)" title="LinkedIn Profile"><img width="80" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <a href="[https://www.instagram.com/mabrur.h11/](https://www.instagram.com/_hamdamovich_/)" title="Insta Profile"><img width="90" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+ <a href="[https://t.me/mabrur_dev/](https://t.me/rth_777)" title="TG Profile"><img width="80" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+ <a href="[https://www.facebook.com/mabrur.h11](https://www.facebook.com/toxir.ravshanov.14/)" title="FB Profile"><img width="80" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+</h5>
 <br>
-<div align="center">
-  <a href="https://github.com/ravshanovtohir">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ravshanovtohir&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180px" style="border:3px solid red;"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravshanovtohir&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-<br>
-  
-## 🤹 My programming skills:
-<div style="display: inline_block" align="center">
-  <img alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-
-  <img alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-
-  <img alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-</div>
-
-<br>
-
-## 👨‍💻 Programm skills which i have learned in Najot-Talim:
-
-<div align="center">
-  <img alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-
-  <img alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  
-</div>
-
-<br>
-  
-## 👨‍💻 I am learning programm skills:
-<div style="display: inline_block" align="center">
-  <img alt="JavaScript" height="30" width="40" style="margin-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-</div>
-  
-<br>
-  
-[![Activity graph](https://activity-graph.herokuapp.com/graph?username=ravshanovtohir&bg_color=000000&color=36bcf7&line=36bcf7&point=ffffff&area=true&hide_border=true)](https://github.com/ravshanovtohir)
-
-<br>
-  
-<!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/ravshanovtohir/ravshanovtohir/output/github-contribution-grid-snake.svg" />
-</div> -->
-
-<br>
-
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/tohir-ravshanov-73147a221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:ravshanovtohir11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://leetcode.com/ravshanovtohir11/"><img src="https://img.shields.io/badge/-LeetCode-%23000?style=for-the-badge&logo=LeetCode&logoColor=white" target="_blank"></a>
-</div>
+<p align="center">
+  Hi, I'm Tohir, Backend Developer from Uzbekistan
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  <br>
+  💬 Ask me anything about from <a href="[https://t.me/mabrur_dev/](https://t.me/rth_777)">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: ravshanovtohir11@gmail.com">ravshanovtohir11@gmail.com</a>
+</p>
