@@ -14,16 +14,14 @@
 </h5>
 <br>
 <p align="center">
-  <br>
-  <br>
   Hi, I'm Tohir, Backend Developer from Uzbekistan
+  <br>
   <br>
   💻 I love writing code and learn anythings about it
   <br>
   💬 Ask me anything about from <a href="https://t.me/rth_777">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: ravshanovtohir11@gmail.com">ravshanovtohir11@gmail.com</a>
-  <br>
+   📫 How to reach me: <a href="mailto: ravshanovtohir11@gmail.com">ravshanovtohir11@gmail.com</a>
 </p>
 
 
